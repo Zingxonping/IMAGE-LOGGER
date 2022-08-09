@@ -1,1 +1,1 @@
-# IMAGE-LOGGER
+DISCLAIMER:Ultimately, it is the users responsibilty for however they may use the software. By running this software you agree that the author has no responsibility for your actions. its for Educational purposes only ENJOY (:
